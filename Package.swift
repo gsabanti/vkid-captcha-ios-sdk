@@ -44,7 +44,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VKCaptchaSDK",
-            url: "https://artifactory-external.vkpartner.ru/artifactory/vk-id-captcha/ios/VKCaptchaSDK-0.1.5/VKCaptchaSDK.xcframework.zip",
+            url: "https://nexus-external.vkteam.ru/repository/vk-id-captcha/ios/VKCaptchaSDK-0.1.5/VKCaptchaSDK.xcframework.zip",
             checksum: "a895e78620e26701d584b5d90c012fb9e9fd686b3636db2b628cae1d79c764a4"
         ),
     ]
